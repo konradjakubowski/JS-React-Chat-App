@@ -1,5 +1,3 @@
-# Konrad_Jakubowski_Portfolio_Project
+A Portfolio Project. React Chat App build with Socket.io framework, ES6 and Webpack: 
 
-JavaScript React Chat Application (front-end + back-end)
-build with React components, ES6, Webpack and Socket.io framework 
-for real-time bidirectional event-based communication.
+https://js-react-chat-app.herokuapp.com/
